@@ -197,7 +197,7 @@ SET NEW.accbalance = NEW.accbalance + NEW.transaction;
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/Rehaank91/Dbms_bank-management-system
+   git clone https://github.com/Rehaank91/Dbms_bank-management-system.git
    cd hdfc-bank-database
    ```
 
