@@ -209,7 +209,7 @@ SET NEW.accbalance = NEW.accbalance + NEW.transaction;
 3. **Run individual queries** as needed using your preferred MySQL client.
 
    
-4. **In the repository you can find attatched Database_Queries.txt file which contains all the queries.**
+4. **In the repository you can find attached Database_Queries.txt file which contains all the queries.**
 
 
 
